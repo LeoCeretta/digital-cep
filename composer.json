@@ -1,0 +1,22 @@
+{
+    "name": "leoce/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "autoload": {
+        "ps4-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Leoce\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LeoCeretta",
+            "email": "leoceretta88@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
